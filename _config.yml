@@ -11,7 +11,7 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-name: MERCAO PANAMA
+name: MERCAO RESTAURANTE
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -55,3 +55,5 @@ github: true
 author:
   name: Francisco Castro
   email: cheffranciscocastro@me.com
+title: Mercao Restaurante
+description: ''
