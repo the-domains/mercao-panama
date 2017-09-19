@@ -1,0 +1,57 @@
+layout_spectrum: 0.04979555485825432
+typography_spectrum: 0.9009804862380802
+color:
+  brandStrength: 0.4901320268377883
+  lightness: 0.3067791472175297
+  saturation: 0.0807048887776967
+  rhythmicContrast: 0.4390984462571358
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: MERCAO PANAMA
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Mercao Emotion
+    id: 39eb3a15-ddbe-4c4c-91bb-fc60d8c1ae08
+    type: content
+  - name: Mercao Kitchen
+    id: c90c52e5-bc80-41af-8b64-11cc57a55dbe
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f55435e-fefa-4cb5-a864-e6304dae1c5d.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f55435e-fefa-4cb5-a864-e6304dae1c5d.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+author:
+  name: Francisco Castro
+  email: cheffranciscocastro@me.com
