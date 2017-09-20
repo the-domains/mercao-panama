@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mercao Restaurante]]></title>
+        <description><![CDATA[Mercao Restaurante]]></description>
+        <link>https://thegrid.ai/mercao-panama/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Sep 2017 00:00:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mercao-panama/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 19 Sep 2017 23:59:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mercao Emotion]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd76ece-e8d8-4ed6-9be7-0e3b24bef69e.jpg">,<h1>Mercao Emotion</h1>,<p>Descubre la cocina panameña de la mano del chef Francisco Castro en Mercao Emotion una experiencia Sensorial que muestra la cocina, cultura y tradiciones de Panama con el apoyo de tecnología. </p>]]></description>
+            <link>https://thegrid.ai/mercao-panama/mercao-emotion/index.html</link>
+            <guid isPermaLink="false">39eb3a15-ddbe-4c4c-91bb-fc60d8c1ae08</guid>
+            <pubDate>Tue, 19 Sep 2017 23:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mercao kitchen]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0773762-8eeb-44cf-ac78-a4e91622b9cb.jpg">,<h1>Mercao kitchen</h1>,<p>Celebra la buena cocina junto a compañeros de trabajo, amigos, familia o invitados, en una cena/ taller en los que todos son parte de la preparación de los platos, guiados por nuestro Chefs.</p>]]></description>
+            <link>https://thegrid.ai/mercao-panama/mercao-kitchen/index.html</link>
+            <guid isPermaLink="false">c90c52e5-bc80-41af-8b64-11cc57a55dbe</guid>
+            <pubDate>Tue, 19 Sep 2017 23:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experiencia Mercao Emotion]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FRVQ0uDnADoE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRVQ0uDnADoE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRVQ0uDnADoE%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=RVQ0uDnADoE</link>
+            <guid isPermaLink="false">7258a14c-76df-4f96-98a9-8164e67ef1f4</guid>
+            <pubDate>Tue, 19 Sep 2017 23:39:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
